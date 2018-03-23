@@ -1,0 +1,8 @@
+{
+  "name": "MiniDukanWebApp",
+  "app_id": "b2323a71",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
